@@ -1,0 +1,168 @@
+html{
+    font-size:16px
+}
+
+body {
+    background: url(img/background.svg);
+    height: 100vh;
+    background-size: cover;
+}
+
+#all {
+    margin: auto;
+    position: relative;
+    padding: 3vmin 5vmin 0;
+    height: 88vh;
+    width: 75vw;
+    background-color: white;
+    border-radius: 80px;
+    z-index: 0;
+}
+
+#logo{
+    height: 70px;
+    width: 70px;
+}
+
+nav {
+    margin: auto;
+    padding: 5px 25px 5px 25px;
+    background: black;
+    border-radius: 0 0 40px 40px;
+    z-index: 99;
+    height: 8em;
+}
+
+
+#textoindex{
+    text-align:center;
+}
+
+#texto > h1 {
+    margin: right;
+    margin-top: 7vmin;
+}
+
+#corredor {
+    height: 15em;
+    width: 15em;
+}
+
+nav > a > button {
+    background: none;
+    border: none;
+    color: white;
+    height: 6em;
+}
+
+#home {
+    color:white
+}
+#carousel{
+    margin: auto;
+    width: 35%;
+    height: 1em;
+}
+
+#infoindex{
+    text-align: center;
+
+}
+
+#store {
+    width: 20vw;
+}
+
+
+#nadador{
+    padding-right: 1em;
+    margin-top: 10em;
+    width: 70vw;
+}
+
+#login.cadastro{
+    border:black;
+    border-color: black;
+}
+#login{
+    text-align: center;
+    margin-top: 5em;
+}
+#login.email{
+    width: 15em;
+}
+#botoeslogin{
+    padding: 1em;
+}
+h3{
+    text-align: center;
+}
+#cadastro{
+    text-align: center;
+    margin: auto;
+    align-items: center;
+    padding-top: 3em;
+}
+#logins{
+    margin: auto;
+    align-items: center;
+    padding: 3px;
+    width: 15em;
+}
+
+#registro{
+    margin-top: 2em;
+}
+
+#infos{
+    margin: auto;
+    margin:10px;
+    padding: 5px;
+}
+
+#star{
+    width: 4em;
+}
+#textvip{
+    text-align: center;
+}
+#assineja{
+    text-align: center;
+}
+#winner1 {
+    text-align: center;
+}
+#winner {
+    margin: auto;
+    max-width: 700px;
+}
+#ckin1,#ckin2{
+    margin: auto;
+    text-align: center;
+}
+#face {
+    min-width: 10em;
+    max-width: 20em;
+}
+#peso {
+    width: 5em;
+}
+#face2 {
+    max-width: 25px;
+}
+#imc {
+    text-align: center;
+}
+#ckin3 {
+    text-align: center;
+}
+#ckin2{
+    text-align: center;
+    margin-bottom: 1em;
+}
+#checkin {
+    max-width: 7em;
+}
+#center{
+    text-align: center;
+}
